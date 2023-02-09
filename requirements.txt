@@ -1,5 +1,2 @@
-jupyter==3.4.4
-cv2==4.7.0
-sys==3.9.13
-
-
+jupyter==1.0.0
+opencv-python==4.5.4.60
